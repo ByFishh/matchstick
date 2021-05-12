@@ -4,4 +4,4 @@ A epitech project.
 Matchstick is game inspired by the game of nim.
 
 # Screenshot
-![Alt text](https://prnt.sc/12u5irp "Screenshot")
+![Screenshot](/screen.png "Screenshot")
